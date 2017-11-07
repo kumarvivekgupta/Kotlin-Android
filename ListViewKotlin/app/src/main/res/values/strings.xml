@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">ListViewKotlin</string>
+    <string-array name="animalName">
+        <item>Baboon</item>
+        <item>Bulldog</item>
+        <item>Panda</item>
+        <item>Swallo Bird</item>
+        <item>White Tiger</item>
+        <item>Zebra</item>
+
+
+
+    </string-array>
+    <string-array name="animalDis">
+        <item>Baboon lives in desert areas</item>
+        <item>Bulldog is dangerous</item>
+        <item>Panda is very cute</item>
+        <item>Swallo Bird lives in pond</item>
+        <item>White Tiger is rare</item>
+        <item>Zebra are most hunted animals by lions</item>
+
+
+
+
+    </string-array>
+
+
+
+</resources>

@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">MediaPlayerInKotlin</string>
+
+    <string-array name="songs">
+        <item>Abc</item>
+        <item>Def</item>
+        <item>Ghi</item>
+        <item>Jkl</item>
+        <item>Mno</item>
+        <item>Pqr</item>
+        <item>Stu</item>
+        <item>Vwx</item>
+        <item>Yza</item>
+        <item>Bcd</item>
+        <item>Efg</item>
+        <item>Hijj</item>
+
+
+
+    </string-array>
+    <string-array name="singers">
+        <item>Abc113</item>
+        <item>Def123</item>
+        <item>Ghi234</item>
+        <item>Jkl345</item>
+        <item>Mno456</item>
+        <item>Pqr567</item>
+        <item>Stu678</item>
+        <item>Vwx78</item>
+        <item>Yza89</item>
+        <item>Bcd90</item>
+        <item>Efg45</item>
+        <item>Hijj776</item>
+
+
+
+    </string-array>
+
+<string-array name="url">
+<item>Abc113</item>
+<item>Def123</item>
+<item>Ghi234</item>
+<item>Jkl345</item>
+<item>Mno456</item>
+<item>Pqr567</item>
+<item>Stu678</item>
+<item>Vwx78</item>
+<item>Yza89</item>
+<item>Bcd90</item>
+<item>Efg45</item>
+<item>Hijj776</item>
+
+
+
+</string-array>
+</resources>
